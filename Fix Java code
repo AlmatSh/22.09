@@ -11,7 +11,6 @@ public class Date {
         day = 0 ;
     }
 
-
     public Date(int year, int month, int day) {
         this.year = year;
         this.month = month;
